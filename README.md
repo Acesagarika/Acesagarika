@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Acesagarika
-- 👀 I’m interested in Web designing.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Full stack Devlopement.
 - 💞️ I’m looking to collaborate on Github.com.
 - 📫 Reach me by sagarikasahoo519@gmail.com
