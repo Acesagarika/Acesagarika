@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Acesagarika
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Full stack Devlopement.
-- 💞️ I’m looking to collaborate on Github.com.
+- 👋 Hi, I’m @Sagarika
+- 👀 I’m interested in Casino Game Development.
+- 🌱 I’m currently working as a Casino Game Developer.
 - 📫 Reach me by sagarikasahoo519@gmail.com
 
 <!---
